@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rashid Khan | Portfolio</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    section h2 {
+      color: #2c3e50;
+    }
+    img.banner {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-bottom: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+    .faq {
+      margin-top: 40px;
+    }
+    .faq h3 {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Rashid Khan</h1>
+    <p>Frontend Web Developer | AI-Powered Solutions</p>
+  </header>
+
+  <section>
+    <img src="https://source.unsplash.com/featured/?technology,code" alt="Developer workspace" class="banner" />
+
+    <h2>About Me</h2>
+    <p>
+      I’m a frontend developer passionate about creating responsive websites and smart digital experiences.
+      With skills in HTML, CSS, JavaScript, and AI tools, I build fast, mobile-friendly, and intuitive websites
+      that deliver real results.
+    </p>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Responsive Web Design</li>
+      <li>GitHub & Version Control</li>
+      <li>Chatbots & Automation with AI</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: yourname@example.com</p>
+  </section>
+
+  <section class="faq">
+    <h2>Frequently Asked Questions</h2>
+
+    <h3>What type of websites do you build?</h3>
+    <p>
+      I specialize in building responsive business websites, landing pages, personal portfolios,
+      and AI-integrated web tools.
+    </p>
+
+    <h3>Do you work with clients?</h3>
+    <p>
+      Yes, I work with clients on freelance and contract projects. I can deliver high-quality
+      code and support within short deadlines.
+    </p>
+
+    <h3>Can you integrate AI tools in a website?</h3>
+    <p>
+      Absolutely. I can integrate chatbots, automation tools, and AI APIs to enhance
+      user experience and productivity.
+    </p>
+  </section>
+
+  <footer>
+    &copy; 2025 Rashid Khan. All rights reserved.
+  </footer>
+
+</body>
+</html>
